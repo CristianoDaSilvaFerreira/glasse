@@ -321,23 +321,25 @@ section {
 }
 
 .banner .box .content span {
+  position: relative;
   font-size: 1.5rem;
+  right: -2.5rem;
   color: #333;
 }
 
 .banner .box .content h3 {
+  position: relative;
+  right: -2rem;
   font-size: 2rem;
   color: #333;
   padding-top: 1rem;
 }
 
 .banner .box .content .btn {
+  position: relative;
+  right: -1rem;
   padding: .6rem 2rem;
   font-size: 1.5rem;
-}
-
-.banner .box .content .buy {
-  color: red;
 }
 
 .products .box-container {
