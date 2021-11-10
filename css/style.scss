@@ -285,7 +285,8 @@ section{
 
         .content{
             position: absolute;
-            top:50%; right:2rem;
+            top:22%; 
+            right:2rem;
             transform: translateY(-50%);
 
             span{
@@ -302,6 +303,10 @@ section{
             .btn{
                 padding:.6rem 2rem;
                 font-size: 1.5rem;
+            }
+
+            .buy {
+                color: red;
             }
         }
     }
