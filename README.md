@@ -47,7 +47,7 @@ Você deve navegar até o seu repositório onde fez o fork e clicar no botão *N
 
 
 ## Website
-Para acessa nossa página é simples, basta entrar no nosso site <a href="https://cristianodasilvaferreira.github.io/glasses//" target="_black">Glasses Shop</a>
+Para acessa nossa página é simples, basta entrar no nosso site <a href="https://cristianodasilvaferreira.github.io/glasses/" target="_black">Glasses Shop</a>
 
 
 
